@@ -4,3 +4,4 @@ twofunction - this is another function.
 threefunction - this is unnecessary function.
 fourfunction - this is another unnecessary function.
 
+new chart function added.
