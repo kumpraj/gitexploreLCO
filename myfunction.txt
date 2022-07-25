@@ -1,4 +1,4 @@
-onefunction - this is the first function.
+onefunction - this is the very first function.
 twofunction - this is another function.
 
 threefunction - this is unnecessary function.
